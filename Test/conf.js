@@ -9,7 +9,7 @@ exports.config = {
     browserName: 'chrome',
     browserName: "iexplorer"
   },
-  
+   
   specs: ['spec.js'],
 
 onPrepare: function () {
