@@ -7,11 +7,7 @@ exports.config = {
    //seleniumAddress: 'http://localhost:4444/wd/hub',
    capabilities: {
     browserName: 'chrome',
-<<<<<<< HEAD
     browserName: "iexplorer"
-=======
-    browserName: 'firefox'
->>>>>>> git1
   },
   
   specs: ['spec.js'],
